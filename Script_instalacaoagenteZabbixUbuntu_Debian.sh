@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ZABBIX_SERVER="10.46.0.114"
+ZABBIX_SERVER="IP_ZABBIX_SERVER"
 ZABBIX_VERSION="6.4"
 AGENT_HOSTNAME=$(hostname)
 ZABBIX_CONF="/etc/zabbix/zabbix_agentd.conf"
