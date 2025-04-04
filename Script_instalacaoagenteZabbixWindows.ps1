@@ -1,5 +1,5 @@
 # Configurações
-$zabbixServer = "10.46.0.114"
+$zabbixServer = "IP_ZABBIX_SERVER"
 $agentHostname = $env:COMPUTERNAME
 $msiUrl = "https://cdn.zabbix.com/zabbix/binaries/stable/6.2/6.2.9/zabbix_agent-6.2.9-windows-amd64-openssl.msi"
 $msiPath = "$env:TEMP\zabbix_agent.msi"
