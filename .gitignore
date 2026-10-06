@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.psk
+*.log
+.env
+zabbix_agentd.generated.conf
